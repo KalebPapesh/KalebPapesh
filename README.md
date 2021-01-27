@@ -1,4 +1,4 @@
-### I am Kaleb Papesh
+### Welcome to my profile page
 
 <!--
 **KalebPapesh/KalebPapesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I write stuff sometimes. Here's a quick overview:
 
 ### Languages:
 <img align="left" alt="Bash script" width="30px" src="https://camo.githubusercontent.com/5a76ab68c90df7ecccdeac83138c8f7c62c7f3a4/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f616c65636976652f666c6174776f6b656e2f3531322f417070732d5465726d696e616c2d50632d3130342d69636f6e2e706e67" />
